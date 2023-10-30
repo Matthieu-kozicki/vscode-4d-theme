@@ -6,7 +6,7 @@ Make your 4D editor pretty
 
 ## Change theme
 
-Select it in 4D v19+ [preferences](https://developer.4d.com/docs/en/Preferences/methods.html#themes).
+Select it in 4D v19+ [preferences](https://developer.4d.com/docs/Preferences/methods/#themes).
 
 ## How to install
 
